@@ -10,10 +10,6 @@ void main(){
 
     vec2 newUV = vUv;
     vec2 coord = newUV;
-    // vec2 coord = (gl_FragCoord.xy / u_resolution);
-
-    // vec2 translate = vec2(-2, -0.5);
-    // coord += translate;
 
     vec3 color = vec3(0.0);
 
